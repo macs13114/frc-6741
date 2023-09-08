@@ -324,7 +324,7 @@ public class Robot extends TimedRobot {
           LeftF.set(ControlMode.PercentOutput, speed);
           RightF.set(ControlMode.PercentOutput, speed);  
         }
-        while(time <= 5.2)
+        while(time <= 5)
         {
             LeftF.set(ControlMode.PercentOutput, -speed2 / 2);
             RightF.set(ControlMode.PercentOutput, speed2 / 2);  
