@@ -184,7 +184,7 @@ public class Robot extends TimedRobot {
     encoder2.reset();
     //encoder3.reset();
     NavX.reset();
-
+    // תעגל את המיספרים היה פו 0.001 
     //encoder.setSamplesToAverage(10);
     //encoder.setMinRate(0.1);
     encoder.setDistancePerPulse(0.1/256.0);
