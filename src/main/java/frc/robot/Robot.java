@@ -190,7 +190,7 @@ public class Robot extends TimedRobot {
     encoder.setDistancePerPulse(0.1/256.0);
     //encoder2.setSamplesToAverage(10);
     //encoder2.setMinRate(0.1);
-    encoder2.setDistancePerPulse(0.01/256.0);
+    encoder2.setDistancePerPulse(0.1/256.0);
     //encoder3.setSamplesToAverage(10);
     //encoder3.setMinRate(0.1);
     //encoder3.setDistancePerPulse(0.1/256.0);
