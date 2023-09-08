@@ -1,1 +1,2 @@
-Yuval - smort lol
+while (true )
+{yuval + adam =smart;}
